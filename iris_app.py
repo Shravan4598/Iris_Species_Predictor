@@ -1,10 +1,9 @@
 import streamlit as st
-import pickle
+from joblib import load
 import numpy as np
 
-# Load the trained SVC model
-with open('svc_model.pkl', 'rb') as file:
-    model = pickle.load(file)
+# Load model
+model = load('svc_model.pkl')
 
 # App title
 st.title("🌸 Iris Flower Species Prediction")
