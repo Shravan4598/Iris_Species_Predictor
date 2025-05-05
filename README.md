@@ -1,7 +1,3 @@
-Here’s your updated project README with the new image URLs, GIF, and the deployed Streamlit app link:
-
----
-
 # 🌸 Iris Species Predictor
 
 🪷 **Iris Flower Prediction**
@@ -71,5 +67,3 @@ Then open your browser to view the app:
 ⭐ If you like this project, feel free to star it!
 
 ---
-
-Would you like this updated README saved as a `.md` file for GitHub?
